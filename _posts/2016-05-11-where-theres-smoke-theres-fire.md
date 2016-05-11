@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "where theres smoke there's fire, that's not always the case..."
-datePublished: '2016-05-11T06:32:31.894Z'
-dateModified: '2016-05-11T06:32:17.635Z'
+datePublished: '2016-05-11T06:33:15.078Z'
+dateModified: '2016-05-11T06:32:53.554Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-where-theres-smoke-theres-fire.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: where-theres-smoke-theres-fire/index.html
 _type: Article
 
