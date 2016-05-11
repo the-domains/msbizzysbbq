@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MsBizzysBBQ]]></title>
-        <description><![CDATA[MsBizzysBBQ]]></description>
+        <title><![CDATA[Ms Bizzy's BBQ]]></title>
+        <description><![CDATA[Ms Bizzy's BBQ]]></description>
         <link>https://thegrid.ai/msbizzysbbq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 06:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 06:18:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/msbizzysbbq/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>where theres smoke there's fire</p>]]></description>
             <link>https://thegrid.ai/msbizzysbbq/where-theres-smoke-theres-fire/index.html</link>
             <guid isPermaLink="false">5b30c0d0-b8e0-4a5e-b685-cb3b5915e4f2</guid>
-            <pubDate>Wed, 11 May 2016 06:05:56 GMT</pubDate>
+            <pubDate>Wed, 11 May 2016 06:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
