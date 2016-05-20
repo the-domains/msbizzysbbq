@@ -1,29 +1,41 @@
-name: MsBizzysBBQ
-favicon: null
-layout_spectrum: 0.25034
-typography_spectrum: 0.48865
 title: "Ms Bizzy's BBQ"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.25
+  brandStrength: 0.125
+  rhythmicContrast: 0.25
   brandColors:
     - '#2a213e'
     - '#e4a770'
     - '#c58361'
     - '#a24758'
     - '#faebe2'
-  brandStrength: 0.125
   lightness: 0.9375
-  saturation: 0.25
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: MsBizzysBBQ
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.48865
+layout_spectrum: 1
